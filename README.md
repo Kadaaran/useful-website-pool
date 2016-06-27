@@ -1,6 +1,6 @@
-<h1 align-"center"> useful-website-pool </h1>
+# useful-website-pool 
 
-> Random and useful websitesm tools, tutorials about everything that I find interesting or simply awesome.
+> Random and useful websites tools, tutorials about everything I find interesting or simply awesome.
 This is the "I just put this here to check it later" list.
 Feel free to add anything you want, just don't forget to add a section if there isn't.
 
