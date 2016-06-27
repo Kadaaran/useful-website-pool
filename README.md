@@ -69,6 +69,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 8. [Flat UI Color Picker](http://www.flatuicolorpicker.com/)  
 9. [Yeti CSS](http://yeticss.com/)  
 10. [Urban Gardening Icons](http://tympanus.net/codrops/2016/06/03/freebie-urban-gardening-icons/) - 🌿
+11. [Brick Font](http://brick.im/fonts/)
 
 ## Github
 
