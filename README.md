@@ -27,6 +27,9 @@ Feel free to add anything you want, just don't forget to add a section if there 
 1. [Public APIS](https://github.com/toddmotto/public-apis)  
 2. [Google API Client Javascript](https://developers.google.com/api-client-library/javascript/start/start-js)  
 3. [42 School API](https://api.intra.42.fr/)  
+4. [RAPIS](https://github.com/lambda2/rapis)  
+5. [Apiize](https://github.com/lambda2/apiize)  
+
 
 
 ## CSS
@@ -40,4 +43,5 @@ Feel free to add anything you want, just don't forget to add a section if there 
 2. [Putain de code](http://putaindecode.io/)  
 3. [CSS Jokes](http://saijogeorge.com/css-puns/)
 4. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+5. [Nutella-scrape](https://github.com/karissa/nutella-scrape)  
 
