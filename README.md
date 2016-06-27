@@ -28,6 +28,9 @@ Feel free to add anything you want, just don't forget to add a section if there 
 8. [Electron](https://github.com/electron/electron)
 9. [Embedjs.io](https://embedjs.readme.io/)  
 10. [D3js](https://d3js.org/)
+11. [Lodash](https://github.com/lodash/lodash)  
+12. [ThreeJS](https://github.com/mrdoob/three.js/)  
+13. [Mocha](https://github.com/mochajs/mocha)  
 
 ## Golang
 1. [Go Packages](https://go.libhunt.com/)  
@@ -70,6 +73,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 3. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 4. [Putain de code](http://putaindecode.io/)  
 5. [NPM](https://www.npmjs.com)  
+6. [Babel](https://github.com/babel/babel)  
 
 ## Random/Awesome
 
