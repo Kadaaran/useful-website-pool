@@ -35,6 +35,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 
 1. [Flexbox Game](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)  
 2. [Learn CSS](http://learnlayout.com/)  
+3. [noun Project](https://thenounproject.com/)
 
 ## Random
 
