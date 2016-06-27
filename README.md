@@ -14,7 +14,8 @@ Feel free to add anything you want, just don't forget to add a section if there 
   * [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem   
   * [Flexible](http://fluxible.io/api/components.html)  
   * [A cartoon guide to flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.mka2j2u6r)  
-  * [Flux](https://facebook.github.io/flux/)  
+  * [Flux](https://facebook.github.io/flux/)
+  * [Redux](http://redux.js.org/)
 2. NodeJS
  * [Cheerio.js](https://github.com/cheeriojs/cheerio)  
  * [Nutella-scrape](https://github.com/karissa/nutella-scrape)  
@@ -33,9 +34,11 @@ Feel free to add anything you want, just don't forget to add a section if there 
 11. [Lodash](https://github.com/lodash/lodash)  
 12. [ThreeJS](https://github.com/mrdoob/three.js/)  
 13. [Mocha](https://github.com/mochajs/mocha)  
-14. [BarbaJS](https://github.com/luruke/barba.js) - Smooth transitions   
+14. [BarbaJS](https://github.com/luruke/barba.js) - Smooth transitions
+15. [FreeCodeCamp](https://www.freecodecamp.com/) - Fullstack JS School
 
 ## Golang
+
 1. [Go Packages](https://go.libhunt.com/)  
 2. [Go Documentation](https://golang.org/doc/)  
 3. [Go by examples](https://gobyexample.com/)
