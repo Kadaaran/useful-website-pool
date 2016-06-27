@@ -6,6 +6,8 @@ Feel free to add anything you want, just don't forget to add a section if there 
 
 ## Javascript
 
+> First of all, watch this video, it helps, a lot : https://www.youtube.com/watch?v=8aGhZQkoFbQ 🙌
+
 1. React  
   * [Official Documentation](https://facebook.github.io/react/docs/getting-started.html)  
   * [Scotch.io](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)  
