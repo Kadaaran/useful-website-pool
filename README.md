@@ -75,6 +75,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 5. [NPM](https://www.npmjs.com)  
 6. [Babel](https://github.com/babel/babel) 
 7. [Todo MVC](http://todomvc.com/) - Helps you to choose an MV Framework  
+8. [Web Starter Kit](https://github.com/google/web-starter-kit)
 
 ## Random/Awesome
 
