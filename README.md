@@ -38,5 +38,6 @@ Feel free to add anything you want, just don't forget to add a section if there 
 
 1. [Embedjs.io](https://embedjs.readme.io/)  
 2. [Putain de code](http://putaindecode.io/)  
-3. [CSS Jokes](http://saijogeorge.com/css-puns/)  
+3. [CSS Jokes](http://saijogeorge.com/css-puns/)
+4. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 
