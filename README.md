@@ -31,6 +31,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 11. [Lodash](https://github.com/lodash/lodash)  
 12. [ThreeJS](https://github.com/mrdoob/three.js/)  
 13. [Mocha](https://github.com/mochajs/mocha)  
+14. [BarbaJS](https://github.com/luruke/barba.js) - Smooth transitions   
 
 ## Golang
 1. [Go Packages](https://go.libhunt.com/)  
@@ -75,7 +76,8 @@ Feel free to add anything you want, just don't forget to add a section if there 
 5. [NPM](https://www.npmjs.com)  
 6. [Babel](https://github.com/babel/babel) 
 7. [Todo MVC](http://todomvc.com/) - Helps you to choose an MV Framework  
-8. [Web Starter Kit](https://github.com/google/web-starter-kit)
+8. [Web Starter Kit](https://github.com/google/web-starter-kit)  
+9. [On my zsh](https://github.com/robbyrussell/oh-my-zsh)  
 
 ## Random/Awesome
 
