@@ -28,6 +28,10 @@ Feel free to add anything you want, just don't forget to add a section if there 
 9. [Embedjs.io](https://embedjs.readme.io/)  
 10. [D3js](https://d3js.org/)
 
+## GO
+1. [Go Packages](https://go.libhunt.com/)  
+2. [Go Documentation](https://golang.org/doc/)  
+3. [Go by examples](https://gobyexample.com/)
 
 ## API
 
