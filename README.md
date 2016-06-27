@@ -18,6 +18,9 @@ Feel free to add anything you want, just don't forget to add a section if there 
 5. [ES2015](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)  
 6. [Javascript Style Guide](https://github.com/airbnb/javascript)  
 7. [You might not need Jquery](http://youmightnotneedjquery.com/)  
+8. [Electron](https://github.com/electron/electron)
+9. [Embedjs.io](https://embedjs.readme.io/)  
+10. [Nutella-scrape](https://github.com/karissa/nutella-scrape)
 
 
 ## API
@@ -39,13 +42,11 @@ Feel free to add anything you want, just don't forget to add a section if there 
 
 ## Random
 
-1. [Embedjs.io](https://embedjs.readme.io/)  
-2. [Putain de code](http://putaindecode.io/)  
-3. [CSS Jokes](http://saijogeorge.com/css-puns/)
+1. [Putain de code](http://putaindecode.io/)  
+2. [CSS Jokes](http://saijogeorge.com/css-puns/)
 4. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-5. [Nutella-scrape](https://github.com/karissa/nutella-scrape)  
-6. [Stack](http://stackshare.io/stacks)  
-7. [Fuck Off As A Service](https://github.com/tomdionysus/foaas)  
-8. [Algolia Places](https://community.algolia.com/places/)  
-9. [Google Creative](http://googlecreativelab.github.io/anypixel/)  
+5. [Stack](http://stackshare.io/stacks)  
+6. [Fuck Off As A Service](https://github.com/tomdionysus/foaas)  
+7. [Algolia Places](https://community.algolia.com/places/)  
+8. [Google Creative](http://googlecreativelab.github.io/anypixel/)  
 
