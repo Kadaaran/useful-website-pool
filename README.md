@@ -43,6 +43,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 5. [SASS](http://sass-lang.com/guide)  
 6. [Box Siwing](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) - FTW  
 7. [Google Icons](https://design.google.com/icons/)  
+8. [Flat UI Color Picker](http://www.flatuicolorpicker.com/)  
 
 ## Github
 
