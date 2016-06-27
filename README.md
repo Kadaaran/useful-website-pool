@@ -15,18 +15,18 @@ Feel free to add anything you want, just don't forget to add a section if there 
   * [A cartoon guide to flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.mka2j2u6r)  
   
 
-2.[cheerio.js](https://github.com/cheeriojs/cheerio)  
-3.[D3js](https://d3js.org/)  
-4.[Choo](https://github.com/yoshuawuyts/choo)  
-5.[ES2015](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)  
-6.[Javascript Style Guide](https://github.com/airbnb/javascript)  
+2. [cheerio.js](https://github.com/cheeriojs/cheerio)  
+3. [D3js](https://d3js.org/)  
+4. [Choo](https://github.com/yoshuawuyts/choo)  
+5. [ES2015](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)  
+6. [Javascript Style Guide](https://github.com/airbnb/javascript)  
 
 
 ## API
 
-1.[Public APIS](https://github.com/toddmotto/public-apis)  
-2.[Google API Client Javascript](https://developers.google.com/api-client-library/javascript/start/start-js)  
-3.[42 School API](https://api.intra.42.fr/)  
+1. [Public APIS](https://github.com/toddmotto/public-apis)  
+2. [Google API Client Javascript](https://developers.google.com/api-client-library/javascript/start/start-js)  
+3. [42 School API](https://api.intra.42.fr/)  
 
 
 ## CSS
