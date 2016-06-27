@@ -12,7 +12,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
   * [Awesome React](https://github.com/enaqx/awesome-react)  
   * [Flexible](http://fluxible.io/api/components.html)  
   * [A cartoon guide to flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.mka2j2u6r)  
-2. [cheerio.js](https://github.com/cheeriojs/cheerio)  
+2. [Cheerio.js](https://github.com/cheeriojs/cheerio)  
 3. [D3js](https://d3js.org/)  
 4. [Choo](https://github.com/yoshuawuyts/choo)  
 5. [ES2015](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)  
@@ -39,6 +39,16 @@ Feel free to add anything you want, just don't forget to add a section if there 
 1. [Flexbox Game](https://preview.webflow.com/preview/flexbox-game?preview=d1a26b027c4803817087a91c651e321f&m=1)  
 2. [Learn CSS](http://learnlayout.com/)  
 3. [Noun Project](https://thenounproject.com/)
+4. [CSS Game](http://flukeout.github.io/#)  
+5. [SASS](http://sass-lang.com/guide)  
+6. [Box Siwing](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) - FTW  
+7. [Google Icons](https://design.google.com/icons/)  
+
+## Github
+
+1. [Hello World](https://guides.github.com/activities/hello-world/)  
+2. [Github Pages](https://pages.github.com/)  
+3. [Github API](https://developer.github.com/v3/)  
 
 ## Random
 
