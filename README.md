@@ -86,5 +86,6 @@ Feel free to add anything you want, just don't forget to add a section if there 
 3. [Fuck Off As A Service](https://github.com/tomdionysus/foaas)  
 4. [Google Creative](http://googlecreativelab.github.io/anypixel/)  
 5. [Bot Users](https://api.slack.com/bot-users)  
+6. [Useless Web](https://github.com/Kadaaran/useful-website-pool) - Careful with this one, you might lose some hours of your life  
 
 
