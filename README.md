@@ -60,7 +60,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 3. [Noun Project](https://thenounproject.com/)
 4. [CSS Game](http://flukeout.github.io/#)  
 5. [SASS](http://sass-lang.com/guide)  
-6. [Box Siwing](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) - FTW  
+6. [Box Sizing](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) - FTW  
 7. [Google Icons](https://design.google.com/icons/)  
 8. [Flat UI Color Picker](http://www.flatuicolorpicker.com/)  
 
@@ -90,5 +90,6 @@ Feel free to add anything you want, just don't forget to add a section if there 
 4. [Google Creative](http://googlecreativelab.github.io/anypixel/)  
 5. [Bot Users](https://api.slack.com/bot-users)  
 6. [Useless Web](https://github.com/Kadaaran/useful-website-pool) - Careful with this one, you might lose some hours of your life  
+7. [Spoil.io](https://spoiled.io/) - Don't you dare  
 
 
