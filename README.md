@@ -12,15 +12,21 @@ Feel free to add anything you want, just don't forget to add a section if there 
   * [Awesome React](https://github.com/enaqx/awesome-react)  
   * [Flexible](http://fluxible.io/api/components.html)  
   * [A cartoon guide to flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.mka2j2u6r)  
-2. [Cheerio.js](https://github.com/cheeriojs/cheerio)  
-3. [D3js](https://d3js.org/)  
+2. NodeJS
+ * [Cheerio.js](https://github.com/cheeriojs/cheerio)  
+ * [Nutella-scrape](https://github.com/karissa/nutella-scrape)  
+ * [Node School](http://nodeschool.io/)  
+3. Meteor  
+ * [Website](https://www.meteor.com/)  
+ * [Official Documentation](https://docs.meteor.com/)  
+ * [Athmosphere JS](https://atmospherejs.com/) - Packages for Meteor  
 4. [Choo](https://github.com/yoshuawuyts/choo)  
 5. [ES2015](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)  
-6. [Javascript Style Guide](https://github.com/airbnb/javascript)  
-7. [You might not need Jquery](http://youmightnotneedjquery.com/)  
+6. [Javascript Style Guide](https://github.com/airbnb/javascript) - Airbnb Guide
+7. [You might not need Jquery](http://youmightnotneedjquery.com/)   
 8. [Electron](https://github.com/electron/electron)
 9. [Embedjs.io](https://embedjs.readme.io/)  
-10. [Nutella-scrape](https://github.com/karissa/nutella-scrape)
+10. [D3js](https://d3js.org/)
 
 
 ## API
@@ -51,14 +57,19 @@ Feel free to add anything you want, just don't forget to add a section if there 
 2. [Github Pages](https://pages.github.com/)  
 3. [Github API](https://developer.github.com/v3/)  
 
-## Random
+## Tools  
 
-1. [Putain de code](http://putaindecode.io/)  
-2. [CSS Jokes](http://saijogeorge.com/css-puns/)
-4. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-5. [Stack](http://stackshare.io/stacks)  
-6. [Fuck Off As A Service](https://github.com/tomdionysus/foaas)  
-7. [Algolia Places](https://community.algolia.com/places/)  
-8. [Google Creative](http://googlecreativelab.github.io/anypixel/)  
-9. [Yeoman](http://yeoman.io/)
+1. [Yeoman](http://yeoman.io/)  
+2. [Algolia Places](https://community.algolia.com/places/)  
+3. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+4. [Putain de code](http://putaindecode.io/)  
+5. [NPM](https://www.npmjs.com)  
+
+## Random/Awesome
+
+1. [CSS Jokes](http://saijogeorge.com/css-puns/)
+2. [Stack](http://stackshare.io/stacks)  
+3. [Fuck Off As A Service](https://github.com/tomdionysus/foaas)  
+4. [Google Creative](http://googlecreativelab.github.io/anypixel/)  
+
 
