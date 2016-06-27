@@ -36,6 +36,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 13. [Mocha](https://github.com/mochajs/mocha)  
 14. [BarbaJS](https://github.com/luruke/barba.js) - Smooth transitions
 15. [FreeCodeCamp](https://www.freecodecamp.com/) - Fullstack JS School
+16. [Webpack Explanation](http://putaindecode.io/fr/articles/js/webpack/) - French explanation  
 
 ## Golang
 
