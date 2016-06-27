@@ -12,10 +12,10 @@ Feel free to add anything you want, just don't forget to add a section if there 
   * [Official Documentation](https://facebook.github.io/react/docs/getting-started.html)  
   * [Scotch.io](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)  
   * [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem   
-  * [Flexible](http://fluxible.io/api/components.html)  
-  * [A cartoon guide to flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.mka2j2u6r)  
   * [Flux](https://facebook.github.io/flux/)
+  * [Fluxible](http://fluxible.io/api/components.html)  
   * [Redux](http://redux.js.org/)
+  * [A cartoon guide to flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.mka2j2u6r)  
 2. NodeJS
  * [Cheerio.js](https://github.com/cheeriojs/cheerio)  
  * [Nutella-scrape](https://github.com/karissa/nutella-scrape)  
