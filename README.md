@@ -6,8 +6,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 
 ## Javascript
 
-1. React
-  * [You might not nee Jquery](http://youmightnotneedjquery.com/)  
+1. React  
   * [Official Documentation](https://facebook.github.io/react/docs/getting-started.html)  
   * [Scotch.io](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)  
   * [Awesome React](https://github.com/enaqx/awesome-react)  
@@ -18,6 +17,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 4. [Choo](https://github.com/yoshuawuyts/choo)  
 5. [ES2015](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)  
 6. [Javascript Style Guide](https://github.com/airbnb/javascript)  
+7. [You might not need Jquery](http://youmightnotneedjquery.com/)  
 
 
 ## API
