@@ -73,7 +73,8 @@ Feel free to add anything you want, just don't forget to add a section if there 
 3. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 4. [Putain de code](http://putaindecode.io/)  
 5. [NPM](https://www.npmjs.com)  
-6. [Babel](https://github.com/babel/babel)  
+6. [Babel](https://github.com/babel/babel) 
+7. [Todo MVC](http://todomvc.com/) - Helps you to choose an MV Framework  
 
 ## Random/Awesome
 
