@@ -1,4 +1,4 @@
-# 🌊 useful-website-pool 🌊
+# useful-website-pool 🌊
 
 > Random and useful websites tools, tutorials about everything I find interesting or simply awesome.  
 This is the "I just put this here to check it later" list.  
