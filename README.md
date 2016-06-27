@@ -1,7 +1,7 @@
 # useful-website-pool 🌊
 
 > Random and useful websites tools, tutorials about everything I find interesting or simply awesome.  
-This is the "I just put this here to check it later" list.  
+This is the kind of "I just put this one here to check it later" list.  
 Feel free to add anything you want, just don't forget to add a section if there isn't.  
 
 ## Javascript
