@@ -63,6 +63,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 6. [Box Sizing](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) - FTW  
 7. [Google Icons](https://design.google.com/icons/)  
 8. [Flat UI Color Picker](http://www.flatuicolorpicker.com/)  
+9. [Yeti CSS](http://yeticss.com/)  
 
 ## Github
 
