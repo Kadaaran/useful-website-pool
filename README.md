@@ -64,6 +64,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 7. [Google Icons](https://design.google.com/icons/)  
 8. [Flat UI Color Picker](http://www.flatuicolorpicker.com/)  
 9. [Yeti CSS](http://yeticss.com/)  
+10. [Icons Shock](http://www.iconshock.com/)
 
 ## Github
 
