@@ -60,4 +60,5 @@ Feel free to add anything you want, just don't forget to add a section if there 
 6. [Fuck Off As A Service](https://github.com/tomdionysus/foaas)  
 7. [Algolia Places](https://community.algolia.com/places/)  
 8. [Google Creative](http://googlecreativelab.github.io/anypixel/)  
+9. [Yeoman](http://yeoman.io/)
 
