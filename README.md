@@ -76,5 +76,6 @@ Feel free to add anything you want, just don't forget to add a section if there 
 2. [Stack](http://stackshare.io/stacks)  
 3. [Fuck Off As A Service](https://github.com/tomdionysus/foaas)  
 4. [Google Creative](http://googlecreativelab.github.io/anypixel/)  
+5. [Bot Users](https://api.slack.com/bot-users)  
 
 
