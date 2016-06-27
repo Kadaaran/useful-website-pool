@@ -28,7 +28,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 4. [RAPIS](https://github.com/lambda2/rapis)  
 5. [Apiize](https://github.com/lambda2/apiize)  
 6. [Parsehub](https://www.parsehub.com/)  
-
+7. [Hateoas](http://putaindecode.io/fr/articles/api/hateoas/) - French explanation
 
 
 ## CSS
