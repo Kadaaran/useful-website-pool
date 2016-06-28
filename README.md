@@ -16,6 +16,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
   * [Fluxible](http://fluxible.io/api/components.html)  
   * [Redux](http://redux.js.org/)
   * [A cartoon guide to flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.mka2j2u6r)  
+  * [Starter Kit](http://andrewhfarmer.com/build-your-own-starter/#0-intro) - Build your own React Starter Kit  
 2. NodeJS
  * [Cheerio.js](https://github.com/cheeriojs/cheerio)  
  * [Nutella-scrape](https://github.com/karissa/nutella-scrape)  
