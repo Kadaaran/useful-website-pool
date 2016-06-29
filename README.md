@@ -38,6 +38,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 14. [BarbaJS](https://github.com/luruke/barba.js) - Smooth transitions
 15. [FreeCodeCamp](https://www.freecodecamp.com/) - Fullstack JS School
 16. [Webpack Explanation](http://putaindecode.io/fr/articles/js/webpack/) - French explanation  
+17. [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - List  
 
 ## Golang
 
@@ -72,6 +73,8 @@ Feel free to add anything you want, just don't forget to add a section if there 
 10. [Urban Gardening Icons](http://tympanus.net/codrops/2016/06/03/freebie-urban-gardening-icons/) - 🌿
 11. [Brick Font](http://brick.im/fonts/)  
 12. [Flex Layout Attribute](http://progressivered.com/fla/?d=0&v=1&h=1&s=0&i=000&a=000#playground)  
+13. [CSS Protips](https://github.com/AllThingsSmitty/css-protips)  
+14. [CSS Reference](http://tympanus.net/codrops/css_reference)  
 
 ## Github
 
@@ -91,7 +94,8 @@ Feel free to add anything you want, just don't forget to add a section if there 
 8. [Web Starter Kit](https://github.com/google/web-starter-kit)  
 9. [On my zsh](https://github.com/robbyrussell/oh-my-zsh)  
 10. [Codepen.io](http://codepen.io/)  
-11. [Forest blue theme Iterm](https://github.com/olkinn/forest-blue-iTerm)
+11. [Forest blue theme Iterm](https://github.com/olkinn/forest-blue-iTerm)  
+12. [Web Tools](https://github.com/lvwzhen/tools)  
 
 ## Random/Awesome
 
