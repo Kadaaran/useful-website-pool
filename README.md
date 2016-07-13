@@ -96,6 +96,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 10. [Codepen.io](http://codepen.io/)  
 11. [Forest blue theme Iterm](https://github.com/olkinn/forest-blue-iTerm)  
 12. [Web Tools](https://github.com/lvwzhen/tools)  
+13. [Algolia Places](https://github.com/algolia/places/)  
 
 ## Random/Awesome
 
