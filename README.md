@@ -74,7 +74,8 @@ Feel free to add anything you want, just don't forget to add a section if there 
 11. [Brick Font](http://brick.im/fonts/)  
 12. [Flex Layout Attribute](http://progressivered.com/fla/?d=0&v=1&h=1&s=0&i=000&a=000#playground)  
 13. [CSS Protips](https://github.com/AllThingsSmitty/css-protips)  
-14. [CSS Reference](http://tympanus.net/codrops/css_reference)  
+14. [CSS Reference](http://tympanus.net/codrops/css_reference) 
+15. [Flex box training with frogs](http://flexboxfroggy.com/)   
 
 ## Github
 
