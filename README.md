@@ -17,6 +17,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
   * [Redux](http://redux.js.org/)
   * [A cartoon guide to flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.mka2j2u6r)  
   * [Starter Kit](http://andrewhfarmer.com/build-your-own-starter/#0-intro) - Build your own React Starter Kit  
+  * [React Explanations](http://putaindecode.io/en/articles/js/react/)  
 2. NodeJS
  * [Cheerio.js](https://github.com/cheeriojs/cheerio)  
  * [Nutella-scrape](https://github.com/karissa/nutella-scrape)  
@@ -39,6 +40,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 15. [FreeCodeCamp](https://www.freecodecamp.com/) - Fullstack JS School
 16. [Webpack Explanation](http://putaindecode.io/fr/articles/js/webpack/) - French explanation  
 17. [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - List  
+18. [POO in Javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)  
 
 ## Golang
 
