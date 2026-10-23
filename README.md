@@ -113,3 +113,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 8. [Loliful](https://app.loliful.io/)
 
 
+
+## Home & DIY
+
+1. [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - Estimate U.S. roof replacement costs by roof size, pitch, material, tear-off needs, and location.
