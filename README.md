@@ -59,6 +59,7 @@ Feel free to add anything you want, just don't forget to add a section if there 
 6. [Parsehub](https://www.parsehub.com/)  
 7. [Hateoas](http://putaindecode.io/fr/articles/api/hateoas/) - French explanation  
 8. [Postman](https://www.getpostman.com/)
+9. [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - Daily travel and life-experience inspiration in JSON; no API key.
 
 
 ## CSS
